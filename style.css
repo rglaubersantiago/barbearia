@@ -5,13 +5,13 @@ body {
 	width: 100%;
 }
 
+.titulo-principal {
+	padding-left: 20px;
+}
+
 .principal {
 	background: #CCCCCC;
 	padding: 30px;
-}
-
-h1 {
-	text-align: center
 }
 
 p {
@@ -38,7 +38,7 @@ ul {
 	margin-right: 15%;
 }
 
-h2 {
+.titulo-centralizado {
 	text-align: center;
 }
 

@@ -100,6 +100,10 @@ form label, form p {
 	width: 50%;
 }
 
+.checkbox {
+	margin: 20px 0;
+}
+
 footer {
 	text-align: center;
 	background-color: #CCCCCC;

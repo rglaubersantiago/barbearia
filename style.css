@@ -83,8 +83,7 @@ nav a:hover {
 }
 
 main {
-	width: 940px;
-	margin: 0 auto;
+	
 }
 
 form{
@@ -160,6 +159,13 @@ footer {
 	width: 100%;
 }
 
+.principal {
+	padding: 3em 0;
+	background: #FEFEFE;
+	width: 940px;
+	margin: 0 auto;
+}
+
 .titulo-principal {
 	text-align: center;
 	font-size: 2em;
@@ -190,7 +196,8 @@ footer {
 }
 
 .mapa {
-	margin: 3em 0;
+	padding: 3em 0;
+	background: linear-gradient(#FEFEFE, #888888);	
 }
 
 .mapa p {
@@ -198,8 +205,14 @@ footer {
 	text-align: center;
 }
 
+.mapa-conteudo {
+	width: 940px;
+	margin: 0 auto;
+}
+
 .beneficios{
 	padding: 3em 0;
+	background: #888888;
 }
 
 .conteudo-beneficios {
